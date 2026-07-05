@@ -6,7 +6,7 @@
 
 ## About
 
-Alphalytics is a real-time stock market dashboard with ML-powered price forecasting. Built from scratch as my first ML project while self-studying Machine Learning and DSA in my 1st year of CSE.
+Alphalytics is a real-time stock market dashboard with ML-powered price forecasting. Built from scratch as my first ML project while self-studying Machine Learning and DSA in my 2nd year of CSE.
 
 ---
 
